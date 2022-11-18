@@ -1,7 +1,7 @@
 {
   "name": "react-scripts",
-  "version": "1.0.3",
-  "description": "Configuration and scripts for Create React App.",
+  "version": "0.0.3",
+  "description": "Configuration and scripts for Create React App modified by Gaia Team",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
